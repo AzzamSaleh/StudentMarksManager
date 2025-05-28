@@ -2,7 +2,7 @@ Note:(تم عمل هذا المشروع ضمن مادة الرمجه المتق�
 
 
 # StudentMarksManager 
-A simple Java GUI application for managing student marks per subject using MySQL.
+Java GUI application for managing student marks per subject using MySQL.
 
 ## Features
 - Add students with their marks
